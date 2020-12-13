@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UnityAtmosphereShader",
+"productVersion": "0.1",
+"dataUrl": "a7ce42c5b9261ca6640558f554631bf8.unityweb",
+"wasmCodeUrl": "c9b60ce3afd700ac70a8d5dcb41e1b3b.unityweb",
+"wasmFrameworkUrl": "69679462e69beb3d74cbb886f14e66b3.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
